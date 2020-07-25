@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Don't forget you're alive" - Joe Strummer
 Use the left arrow to go back!
